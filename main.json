@@ -66,15 +66,15 @@
     },
     {
         "date": "14/06/2021",
-        "dose_1": 1,
-        "dose_2": 1,
-        "death": 1,
-        "recovered": 1,
-        "confirmed_cases" : 1 ,
-        "death_total": 1,
-        "recovered_total": 1,
-        "confirmed_cases_total" : 1,
-        "active_cases" : 1,
-        "critical_cases" : 1
+        "dose_1": 3,
+        "dose_2": 3,
+        "death": 3,
+        "recovered": 3,
+        "confirmed_cases" : 3 ,
+        "death_total": 3,
+        "recovered_total": 3,
+        "confirmed_cases_total" : 3,
+        "active_cases" : 3,
+        "critical_cases" : 3
     }
 ]
