@@ -76,6 +76,5 @@
         "confirmed_cases_total" : 1,
         "active_cases" : 1,
         "critical_cases" : 1
-    },
-
+    }
 ]
